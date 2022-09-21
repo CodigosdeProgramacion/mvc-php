@@ -1,9 +1,14 @@
 # Modelo Vista Controlador en PHP y MySQL
-Patrón de diseño MVC en PHP. Código generado en la clase "Modelo Vista Controlador en PHP" del canal de Código de Programación.
-Clase de YouTube: https://youtu.be/m89Ib6eRpvY
-
-### Descripción
 CRUD de vehiculos en PHP, MVC, MySQL y Bootstrap.
+
+[Mira el vídeo donde hacemos este proyecto](https://youtu.be/m89Ib6eRpvY)
+
+## Requerimientos 📋
+- Servidor Web (Apache)
+- PHP (compatible con las versiones 5, 7 y 8)
+- MySQL
+
+*Puedes usar un todo en uno como XAMPP, WAMPP u otro.*
 
 ## Frameworks utilizados
 * [Bootstrap](http://getbootstrap.com/) - Biblioteca Bootstrap para diseño frontend
@@ -11,17 +16,8 @@ CRUD de vehiculos en PHP, MVC, MySQL y Bootstrap.
 ## Configuración
 Abra config/database.php e ingrese los datos de configuración de su base de datos.
 
-## Autor
-* **Marko Robles** - *Códigos de Programación* 
+## Expresiones de Gratitud 🎁
 
-## Redes Sociales
-
-YouTube https://www.youtube.com/c/CodigosdeProgramacion
-
-Facebook http://www.fb.com/CodigosProgramacion
-
-Twitter https://twitter.com/CodigosPrograma
-
-Sitio web https://codigosdeprogramacion.com
- 
-APOYANOS con una donación https://www.paypal.me/codigosdprogramacion
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ [Da clic aquí](https://www.paypal.com/paypalme/markorobles?locale.x=es_XC.) 
+* Da las gracias públicamente 🤓.
